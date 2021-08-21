@@ -1,4 +1,4 @@
-# Computer vision: Detecting changes in world map.
+# Computer vision: Detecting changes in world map
 
 ## Demo video
 https://drive.google.com/file/d/16BC30tXXhj3XXJNPSxuZlyIC5lip5YHn/view?usp=sharing
